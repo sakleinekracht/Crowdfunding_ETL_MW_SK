@@ -1,6 +1,6 @@
 # Crowdfunding_ETL_MW_SK
 
-Project_Files folder contians:
+Project_Files folder contains:
   
   ETL_Mini_Project_MWillis_SKleineKracht.ipynb with 4 DataFrames: category, subcategory, campaign, contacts
   
