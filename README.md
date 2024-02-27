@@ -17,5 +17,7 @@ Project_Files folder contians:
   Crowdfunding_ERD.png file of ERD created using QuickDBD
 
   crowdfunding_db_schema.sql file containing table schema of 4 DataFrames previously created
+  
     * Primary Keys and Foreign keys notated for each
+    
     * Csv files imported for each corresponding table
